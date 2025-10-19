@@ -1,0 +1,47 @@
+[
+    {
+        "Name":  "BackupServer01",
+        "IP":  "192.168.1.14",
+        "Application":  "Backup System",
+        "Environment":  "Production",
+        "Type":  "Backup",
+        "SuccessPercentage":  0,
+        "LastChecked":  "2025-10-19 16:33:10"
+    },
+    {
+        "Name":  "Poco 65",
+        "IP":  "192.168.1.103",
+        "Application":  "Mobile",
+        "Environment":  "Production",
+        "Type":  "Database",
+        "SuccessPercentage":  100,
+        "LastChecked":  "2025-10-19 16:33:12"
+    },
+    {
+        "Name":  "FileServer01",
+        "IP":  "192.168.1.13",
+        "Application":  "File Storage",
+        "Environment":  "Production",
+        "Type":  "File Server",
+        "SuccessPercentage":  0,
+        "LastChecked":  "2025-10-19 16:33:15"
+    },
+    {
+        "Name":  "Arial",
+        "IP":  "192.168.1.104",
+        "Application":  "Laptop",
+        "Environment":  "Production",
+        "Type":  "Application",
+        "SuccessPercentage":  100,
+        "LastChecked":  "2025-10-19 16:33:16"
+    },
+    {
+        "Name":  "Moto-G22",
+        "IP":  "192.168.1.100",
+        "Application":  "Mobile",
+        "Environment":  "Release",
+        "Type":  "Application",
+        "SuccessPercentage":  100,
+        "LastChecked":  "2025-10-19 16:33:16"
+    }
+]
